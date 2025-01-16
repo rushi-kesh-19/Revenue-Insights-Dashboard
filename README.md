@@ -23,3 +23,7 @@ Customer Demographics Pie Chart: Shows the distribution of customers by gender.
 Location Insights Map: Visualizes the revenue generated from different locations, highlighting key markets.
 
 ![Image](https://github.com/user-attachments/assets/09658aa9-6722-43f8-bba3-f26d97c1ea3f)
+![Image](https://github.com/user-attachments/assets/9e42b1e4-2616-4700-bb50-0024e04175d5)
+![Image](https://github.com/user-attachments/assets/9427de84-f676-4e63-bd25-ebc0c119f902)
+![Image](https://github.com/user-attachments/assets/f3c4aa75-d341-4519-9749-7d11df326c68)
+![Image](https://github.com/user-attachments/assets/f2f69d01-35eb-4e88-a133-90e4cb826075)
